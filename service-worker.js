@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-hrushikesh-the-me/precache-manifest.9b1d2405bf53db636f5b7a3ec3b0ceb5.js"
+  "/Crio-Launch-Feb-2020-hrushikesh-the-me/precache-manifest.13617768c4194409603bf48830a3c179.js"
 );
 
 self.addEventListener('message', (event) => {

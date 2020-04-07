@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60d5c7626bf4bfb97bc015e03cb8af94",
+    "revision": "c7a23d2fb763ca9bb5f2f73c9033bd55",
     "url": "/Crio-Launch-Feb-2020-hrushikesh-the-me/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-hrushikesh-the-me/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "73ecd77b45b84a315119",
+    "revision": "c68e3a342542847a83bb",
     "url": "/Crio-Launch-Feb-2020-hrushikesh-the-me/static/css/main.5db1380d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crio-Launch-Feb-2020-hrushikesh-the-me/static/js/2.52d98aa5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73ecd77b45b84a315119",
-    "url": "/Crio-Launch-Feb-2020-hrushikesh-the-me/static/js/main.f4d17f72.chunk.js"
+    "revision": "c68e3a342542847a83bb",
+    "url": "/Crio-Launch-Feb-2020-hrushikesh-the-me/static/js/main.eb76df74.chunk.js"
   },
   {
     "revision": "b66e772a6029b6c90c4a",
